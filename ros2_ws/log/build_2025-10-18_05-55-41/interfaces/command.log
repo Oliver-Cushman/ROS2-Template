@@ -1,6 +1,0 @@
-Invoking command in '/ROS2-Template/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ROS2-Template/ros2_ws/src/interfaces -DCMAKE_INSTALL_PREFIX=/ROS2-Template/ros2_ws/install/interfaces
-Invoked command in '/ROS2-Template/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ROS2-Template/ros2_ws/src/interfaces -DCMAKE_INSTALL_PREFIX=/ROS2-Template/ros2_ws/install/interfaces
-Invoking command in '/ROS2-Template/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ROS2-Template/ros2_ws/build/interfaces -- -j12 -l12
-Invoked command in '/ROS2-Template/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ROS2-Template/ros2_ws/build/interfaces -- -j12 -l12
-Invoking command in '/ROS2-Template/ros2_ws/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ROS2-Template/ros2_ws/build/interfaces
-Invoked command in '/ROS2-Template/ros2_ws/build/interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ROS2-Template/ros2_ws/build/interfaces

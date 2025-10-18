@@ -1,9 +1,0 @@
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/uninstall.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/cpp_uninstall.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/test.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/edit_cache.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/rebuild_cache.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/list_install_components.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/install.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/install/local.dir
-/ROS2-Template/ros2_ws/build/cpp/CMakeFiles/install/strip.dir
