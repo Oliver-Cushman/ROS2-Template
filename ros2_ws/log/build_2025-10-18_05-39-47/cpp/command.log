@@ -1,0 +1,6 @@
+Invoking command in '/ROS2-Template/ros2_ws/build/cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ROS2-Template/ros2_ws/src/cpp -DCMAKE_INSTALL_PREFIX=/ROS2-Template/ros2_ws/install/cpp
+Invoked command in '/ROS2-Template/ros2_ws/build/cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /ROS2-Template/ros2_ws/src/cpp -DCMAKE_INSTALL_PREFIX=/ROS2-Template/ros2_ws/install/cpp
+Invoking command in '/ROS2-Template/ros2_ws/build/cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ROS2-Template/ros2_ws/build/cpp -- -j12 -l12
+Invoked command in '/ROS2-Template/ros2_ws/build/cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /ROS2-Template/ros2_ws/build/cpp -- -j12 -l12
+Invoking command in '/ROS2-Template/ros2_ws/build/cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ROS2-Template/ros2_ws/build/cpp
+Invoked command in '/ROS2-Template/ros2_ws/build/cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /ROS2-Template/ros2_ws/build/cpp

@@ -1,0 +1,33 @@
+[0.679s] Invoking command in '/ROS2-Template/ros2_ws/src/example_python': PYTHONPATH=/ROS2-Template/ros2_ws/build/example_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ROS2-Template/ros2_ws/install/example_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_python build --build-base /ROS2-Template/ros2_ws/build/example_python/build install --record /ROS2-Template/ros2_ws/build/example_python/install.log --single-version-externally-managed install_data
+[0.852s] running egg_info
+[0.852s] creating ../../build/example_python/example_python.egg-info
+[0.853s] writing ../../build/example_python/example_python.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../../build/example_python/example_python.egg-info/dependency_links.txt
+[0.854s] writing entry points to ../../build/example_python/example_python.egg-info/entry_points.txt
+[0.854s] writing requirements to ../../build/example_python/example_python.egg-info/requires.txt
+[0.855s] writing top-level names to ../../build/example_python/example_python.egg-info/top_level.txt
+[0.855s] writing manifest file '../../build/example_python/example_python.egg-info/SOURCES.txt'
+[0.857s] reading manifest file '../../build/example_python/example_python.egg-info/SOURCES.txt'
+[0.857s] adding license file 'LICENSE'
+[0.858s] writing manifest file '../../build/example_python/example_python.egg-info/SOURCES.txt'
+[0.858s] running build
+[0.858s] running build_py
+[0.858s] creating /ROS2-Template/ros2_ws/build/example_python/build
+[0.858s] creating /ROS2-Template/ros2_ws/build/example_python/build/lib
+[0.859s] creating /ROS2-Template/ros2_ws/build/example_python/build/lib/example_python
+[0.859s] copying example_python/__init__.py -> /ROS2-Template/ros2_ws/build/example_python/build/lib/example_python
+[0.859s] running install
+[0.859s] running install_lib
+[0.860s] creating /ROS2-Template/ros2_ws/install/example_python/lib/python3.10/site-packages/example_python
+[0.860s] copying /ROS2-Template/ros2_ws/build/example_python/build/lib/example_python/__init__.py -> /ROS2-Template/ros2_ws/install/example_python/lib/python3.10/site-packages/example_python
+[0.861s] byte-compiling /ROS2-Template/ros2_ws/install/example_python/lib/python3.10/site-packages/example_python/__init__.py to __init__.cpython-310.pyc
+[0.861s] running install_data
+[0.862s] creating /ROS2-Template/ros2_ws/install/example_python/share/ament_index
+[0.862s] creating /ROS2-Template/ros2_ws/install/example_python/share/ament_index/resource_index
+[0.864s] creating /ROS2-Template/ros2_ws/install/example_python/share/ament_index/resource_index/packages
+[0.864s] copying resource/example_python -> /ROS2-Template/ros2_ws/install/example_python/share/ament_index/resource_index/packages
+[0.864s] copying package.xml -> /ROS2-Template/ros2_ws/install/example_python/share/example_python
+[0.864s] running install_egg_info
+[0.865s] Copying ../../build/example_python/example_python.egg-info to /ROS2-Template/ros2_ws/install/example_python/lib/python3.10/site-packages/example_python-0.0.0-py3.10.egg-info
+[0.866s] running install_scripts
+[0.883s] writing list of installed files to '/ROS2-Template/ros2_ws/build/example_python/install.log'

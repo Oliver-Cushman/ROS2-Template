@@ -1,0 +1,34 @@
+[0.442s] Invoking command in '/ROS2-Template/ros2_ws/src/python': PYTHONPATH=/ROS2-Template/ros2_ws/build/python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python build --build-base /ROS2-Template/ros2_ws/build/python/build install --record /ROS2-Template/ros2_ws/build/python/install.log --single-version-externally-managed install_data
+[0.612s] running egg_info
+[0.612s] creating ../../build/python/python.egg-info
+[0.613s] writing ../../build/python/python.egg-info/PKG-INFO
+[0.613s] writing dependency_links to ../../build/python/python.egg-info/dependency_links.txt
+[0.613s] writing entry points to ../../build/python/python.egg-info/entry_points.txt
+[0.613s] writing requirements to ../../build/python/python.egg-info/requires.txt
+[0.614s] writing top-level names to ../../build/python/python.egg-info/top_level.txt
+[0.614s] writing manifest file '../../build/python/python.egg-info/SOURCES.txt'
+[0.615s] reading manifest file '../../build/python/python.egg-info/SOURCES.txt'
+[0.615s] adding license file 'LICENSE'
+[0.616s] writing manifest file '../../build/python/python.egg-info/SOURCES.txt'
+[0.616s] running build
+[0.616s] running build_py
+[0.617s] creating /ROS2-Template/ros2_ws/build/python/build
+[0.617s] creating /ROS2-Template/ros2_ws/build/python/build/lib
+[0.618s] creating /ROS2-Template/ros2_ws/build/python/build/lib/python
+[0.618s] copying python/__init__.py -> /ROS2-Template/ros2_ws/build/python/build/lib/python
+[0.618s] running install
+[0.618s] running install_lib
+[0.618s] creating /ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages/python
+[0.619s] copying /ROS2-Template/ros2_ws/build/python/build/lib/python/__init__.py -> /ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages/python
+[0.619s] byte-compiling /ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages/python/__init__.py to __init__.cpython-310.pyc
+[0.621s] running install_data
+[0.622s] creating /ROS2-Template/ros2_ws/install/python/share/ament_index
+[0.622s] creating /ROS2-Template/ros2_ws/install/python/share/ament_index/resource_index
+[0.622s] creating /ROS2-Template/ros2_ws/install/python/share/ament_index/resource_index/packages
+[0.622s] copying resource/python -> /ROS2-Template/ros2_ws/install/python/share/ament_index/resource_index/packages
+[0.622s] copying package.xml -> /ROS2-Template/ros2_ws/install/python/share/python
+[0.622s] running install_egg_info
+[0.623s] Copying ../../build/python/python.egg-info to /ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages/python-0.0.0-py3.10.egg-info
+[0.624s] running install_scripts
+[0.639s] writing list of installed files to '/ROS2-Template/ros2_ws/build/python/install.log'
+[0.657s] Invoked command in '/ROS2-Template/ros2_ws/src/python' returned '0': PYTHONPATH=/ROS2-Template/ros2_ws/build/python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ROS2-Template/ros2_ws/install/python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/python build --build-base /ROS2-Template/ros2_ws/build/python/build install --record /ROS2-Template/ros2_ws/build/python/install.log --single-version-externally-managed install_data

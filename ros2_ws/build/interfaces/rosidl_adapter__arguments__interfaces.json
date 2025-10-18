@@ -1,0 +1,8 @@
+{
+  "package_name": "interfaces",
+  "non_idl_tuples": [
+    "/ROS2-Template/ros2_ws/src/interfaces:msg/Example.msg",
+    "/ROS2-Template/ros2_ws/src/interfaces:srv/Example.srv",
+    "/ROS2-Template/ros2_ws/src/interfaces:action/Example.action"
+  ]
+}
