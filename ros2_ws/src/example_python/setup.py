@@ -24,6 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'pub_node = example_python.pub_node:main',
+            'sub_node = example_python.sub_node:main'
         ],
     },
 )
